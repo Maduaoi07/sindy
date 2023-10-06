@@ -1,2 +1,2 @@
 # sindy
-Esse repositório é um trabalho escolar, aonde aprendemos há utilizar o html e o css. 
+Esse repositório é um trabalho escolar, aonde aprendemos a utilizar o html e o css. 
